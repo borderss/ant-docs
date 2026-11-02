@@ -1,6 +1,6 @@
 # ant-docs
 
-The documentation site for [ant](https://github.com/skudra-go/ant), built with [Docusaurus](https://docusaurus.io).
+The documentation site for [ant](https://github.com/skudra-go/ant), built with [Docusaurus](https://docusaurus.io)
 
 ## Running it
 
